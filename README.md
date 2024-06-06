@@ -1,3 +1,8 @@
+
+"!!LINK-SIMULAÇÃO-WOKWI!!"
+
+( https://wokwi.com/projects/399970729015042049 )
+
 Projeto de Conscientização Ambiental para Preservação dos Oceanos.
 
 Este projeto utiliza um Arduino UNO, um sensor ultrassônico (HC-SR04), um
@@ -30,10 +35,4 @@ conscientiza as pessoas sobre a importância de não descartar lixo no mar.
 
 -Este projeto tem como objetivo promover a conscientização sobre a preservação dos oceanos,
 utilizando tecnologia para educar e informar sobre a importância de não descartar lixo no mar.
-
-
-
-"!!LINK-SIMULAÇÃO-WOKWI!!"
-
-( https://wokwi.com/projects/399970729015042049 )
 
