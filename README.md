@@ -1,4 +1,3 @@
-#README
 Projeto de Conscientização Ambiental para Preservação dos Oceanos.
 
 Este projeto utiliza um Arduino UNO, um sensor ultrassônico (HC-SR04), um
